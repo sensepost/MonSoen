@@ -28,4 +28,4 @@ Proxy Server network scanner and tunnelling tool.
 #6. Requirements
 Python
 #7. Additional Resources 
-Blog - http://www.sensepost.com/blog/3867.html
+Blog - https://www.sensepost.com/blog/2009/monsoen.py/
